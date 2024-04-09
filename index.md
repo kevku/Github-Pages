@@ -2,6 +2,7 @@
 ## Mathematics-Computer Science B.S 
 [About Me](#about-me)  
 [Classes](#classes-taken)  
+[Hobbies](#hobbies)  
 Alternate Site Made in CSE 134 B [Personal Portfolio](https://musical-figolla-6481b5.netlify.app/)
 
 ![Geisel Library](/images/Geisel.jpg)
